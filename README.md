@@ -1,2 +1,2 @@
-# leetcode
-Solving leetcode problems because why not
+# leetcode problems
+Thought I'd start solving some problems and see where it goes.
