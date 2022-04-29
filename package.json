@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sabbir Siddiqui <sabbir.m.siddiqui@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.30",
+    "typescript": "^4.6.4"
+  }
+}
